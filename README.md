@@ -1,4 +1,4 @@
-# Link para o sistema Agenda Consulta com eletric
+# Link para o sistema Agenda Consulta com electron
 
 ```
 git clone https://github.com/vandeilson01/AgendaConsulta_Electron-JavaScript.git
