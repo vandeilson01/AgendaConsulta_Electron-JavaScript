@@ -12,7 +12,8 @@ npm start
 
 # Execução
 
-<video src="https://user-images.githubusercontent.com/60020510/202838906-342857e9-8c78-47e3-8254-f540865aa482.mp4" />
+<img src="https://user-images.githubusercontent.com/60020510/202839236-8058324f-67f8-4180-8367-c06770329fa1.png" />
+<img src="https://user-images.githubusercontent.com/60020510/202839238-7b499b87-e9d0-4af4-94ed-775aae9a42bc.png" />
 
 ## Donate
 
